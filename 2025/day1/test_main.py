@@ -1,7 +1,6 @@
 import main
 
 def test_day1b():
-    print("test 1b")
     input = [
         "L68",
         "L30",
