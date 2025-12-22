@@ -44,5 +44,5 @@ def gen_grid(f):
 if __name__ == '__main__':
     with open('input.txt') as f:
         grid = list(gen_grid(f))
-        print('day3a:', solve_a(grid))
-        print('day3b:', solve_b(grid))
+        print('day4a:', solve_a(grid))
+        print('day4b:', solve_b(grid))
